@@ -1,0 +1,36 @@
+body {
+  background-color:#FFF4CF;
+}
+
+hr {
+  border-style:dotted none none none;
+  border-width:thick;
+  border-color:#FFB200;
+  width:5%;
+}
+
+img:hover {
+  background-color:gold;
+}
+
+h1 {
+  color:#277BC0;
+  font-style:italic;
+  font-family:"Gill Sans Extrabold", sans-serif;
+}
+
+h2 {
+  color:#277BC0;
+}
+
+h3 {
+  color:#277BC0;
+}
+
+.badminton {
+  background-color:#FFB200;
+}
+
+.books {
+  background-color: grey;
+}
