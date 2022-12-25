@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: #EAFDFC;
+}
+
+.first {
+    text-align: center;
+    border: none;
+    margin: none;
+}
+
+.second {
+    background-color: #BFEAF5;
+}
+#yuher {
+    height: 248px;
+    width: 370px;
+}
