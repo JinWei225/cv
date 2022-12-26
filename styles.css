@@ -4,6 +4,10 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+    font-size: 3rem;
+}
+
 .first {
     text-align: center;
     border: none;
@@ -40,9 +44,10 @@ p {
 }
 .container-fluid {
     width: 61%;
+    padding-bottom: 3em;
 }
 .title {
-    font-size: 5rem;
+    font-size: 4.5rem;
 }
 .words {
     font-size: 1.5rem;
@@ -50,4 +55,11 @@ p {
 .gs {
     font-family: 'Noto Serif SC', serif;
     font-weight: 200;
+}
+.page-title {
+    padding-top: 2em;
+}
+.carousel-item {
+    max-height: 500px;
+    max-width: 750px;
 }
