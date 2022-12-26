@@ -4,6 +4,10 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.name {
+    font-family: 'Noto Serif SC', serif;
+}
+
 h1 {
     font-size: 3rem;
 }
@@ -12,14 +16,14 @@ h1 {
     text-align: center;
     border: none;
     margin: none;
+    padding-bottom: 3em;
 }
 
 .second {
     background-color: #82AAE3;
     width: 100%;
-    position: absolute;
-    left: 0px;
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 #myself {
@@ -27,16 +31,19 @@ h1 {
     max-height: 248px;
 }
 #yuher {
-    height: 248px;
-    width: 372px;
+    height: 277px;
+    width: 370px;
+    padding-bottom: 2em;
 }
 #yuheng {
-    height: 248px;
-    width: 372px;
+    height: 277px;
+    width: 370px;
+    padding-bottom: 2em;
 }
 #yunxuan {
-    height: 380px;
+    height: 390px;
     width: 380px;
+    padding-bottom: 2em;
 }
 p {
     font-family: 'ZCOOL XiaoWei', sans-serif;
@@ -62,4 +69,9 @@ p {
 .carousel-item {
     max-height: 500px;
     max-width: 750px;
+}
+.argh {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
