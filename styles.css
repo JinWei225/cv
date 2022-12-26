@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    background-color: #EAFDFC;
+    background-color: #BFEAF5;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .first {
@@ -10,9 +11,22 @@ body {
 }
 
 .second {
-    background-color: #BFEAF5;
+    background-color: #82AAE3;
 }
-#yuher {
-    height: 248px;
-    width: 370px;
+#myself {
+    width: 248px;
+    height: 370px;
+}
+p {
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+    font-size: 1.5rem;
+}
+.container-fluid {
+    width: 61%;
+}
+.title {
+    font-size: 5rem;
+}
+.words {
+    font-size: 1.5rem;
 }
