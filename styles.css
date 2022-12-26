@@ -12,10 +12,27 @@ body {
 
 .second {
     background-color: #82AAE3;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    padding-bottom: 20px;
 }
+
 #myself {
-    width: 248px;
-    height: 370px;
+    max-width: 372px;
+    max-height: 248px;
+}
+#yuher {
+    height: 248px;
+    width: 372px;
+}
+#yuheng {
+    height: 248px;
+    width: 372px;
+}
+#yunxuan {
+    height: 380px;
+    width: 380px;
 }
 p {
     font-family: 'ZCOOL XiaoWei', sans-serif;
@@ -29,4 +46,8 @@ p {
 }
 .words {
     font-size: 1.5rem;
+}
+.gs {
+    font-family: 'Noto Serif SC', serif;
+    font-weight: 200;
 }
